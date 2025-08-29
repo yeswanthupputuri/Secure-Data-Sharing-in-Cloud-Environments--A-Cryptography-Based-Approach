@@ -26,9 +26,5 @@ Files are stored on Azure while every access/update is logged for transparency.
 4. Edits require owner approval  
 5. Provenance logs every action  
 
----
 
-## 🔹 Data Provenance
-<details>
-  <summary>📂 Show Provenance Phases</summary>
 
