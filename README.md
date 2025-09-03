@@ -43,4 +43,4 @@ Files are stored on Azure while every access/update is logged for transparency.
 
 ---
 
-✅ *Built with ❤️ for secure and transparent cloud collaboration.*
+✅ *Built with it for secure and transparent cloud collaboration.*
