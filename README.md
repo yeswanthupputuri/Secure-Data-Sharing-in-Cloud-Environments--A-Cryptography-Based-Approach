@@ -5,7 +5,7 @@
 
 ## 🔹 Overview
 This project demonstrates secure cloud data sharing using **AES encryption**,  
-**MySQL metadata storage**, and a **Data Provenance system**.  
+**MySQL metadata storage**, and a **Data Provenance system**. 
 Files are stored on Azure while every access/update is logged for transparency.
 
 ---
